@@ -65,7 +65,7 @@ To verify if Python 3.11 has been installed correctly on your system, follow the
 
 3. **Navigate into the project directory**:
    ```bash
-   cd Smart-Vehicle
+   cd AIML-Based-Predictive-Maintainence-System-for-Vehicles
 
 4. **Install Python dependencies**:
    ```bash
@@ -78,7 +78,7 @@ To verify if Python 3.11 has been installed correctly on your system, follow the
 6. **When API Start Running on 'http://127.0.0.1:5000' and start showing 'Vehicle RUL Prediction API is live!'** then Open new Command Prompt (press Win + R, type cmd, and press Enter) and 
    Naviagate into the project directory again:
    ```bash
-   cd Smart-Vehicle
+   cd AIML-Based-Predictive-Maintainence-System-for-Vehicles
 
 7. **Install project dependencies**:
    ```bash
