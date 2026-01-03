@@ -1,6 +1,6 @@
 
 
-# Smart Vehicle
+# AIML-Based-Predictive-Maintainence-System-for-Vehicles
 
 ## Requirements
 
@@ -61,7 +61,7 @@ To verify if Python 3.11 has been installed correctly on your system, follow the
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/hiteshrao04/Smart-Vehicle.git
+   git clone https://github.com/hiteshrao04/AIML-Based-Predictive-Maintainence-System-for-Vehicles.git
 
 3. **Navigate into the project directory**:
    ```bash
@@ -92,6 +92,6 @@ To verify if Python 3.11 has been installed correctly on your system, follow the
    ```bash
    http://localhost:5173
 
-10. Keep Track of your Vehicle Health, Maintainence and Failure Predictions with our **Smart Vehicle System**
+10. Keep Track of your Vehicle Health, Maintainence and Failure Predictions with our **AIML-Based-Predictive-Maintainence-System**
     ```bash
     Thank you
